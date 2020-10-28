@@ -5,6 +5,7 @@
   "author": "Italo Fernandes <italojafernandes@hotmail.com>",
   "license": "MIT",
   "dependencies": {
+    "@babel/cli": "^7.12.1",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
   },
